@@ -1,0 +1,14 @@
+/home/ajaysinghc/GitRepo/ProductsOnContainer/src/services/ProductCatalogApi/bin/Debug/netcoreapp2.1/ProductCatalogApi.deps.json
+/home/ajaysinghc/GitRepo/ProductsOnContainer/src/services/ProductCatalogApi/bin/Debug/netcoreapp2.1/ProductCatalogApi.runtimeconfig.json
+/home/ajaysinghc/GitRepo/ProductsOnContainer/src/services/ProductCatalogApi/bin/Debug/netcoreapp2.1/ProductCatalogApi.runtimeconfig.dev.json
+/home/ajaysinghc/GitRepo/ProductsOnContainer/src/services/ProductCatalogApi/bin/Debug/netcoreapp2.1/ProductCatalogApi.dll
+/home/ajaysinghc/GitRepo/ProductsOnContainer/src/services/ProductCatalogApi/bin/Debug/netcoreapp2.1/ProductCatalogApi.pdb
+/home/ajaysinghc/GitRepo/ProductsOnContainer/src/services/ProductCatalogApi/obj/Debug/netcoreapp2.1/ProductCatalogApi.csprojAssemblyReference.cache
+/home/ajaysinghc/GitRepo/ProductsOnContainer/src/services/ProductCatalogApi/obj/Debug/netcoreapp2.1/ProductCatalogApi.csproj.CoreCompileInputs.cache
+/home/ajaysinghc/GitRepo/ProductsOnContainer/src/services/ProductCatalogApi/obj/Debug/netcoreapp2.1/ProductCatalogApi.RazorAssemblyInfo.cache
+/home/ajaysinghc/GitRepo/ProductsOnContainer/src/services/ProductCatalogApi/obj/Debug/netcoreapp2.1/ProductCatalogApi.RazorAssemblyInfo.cs
+/home/ajaysinghc/GitRepo/ProductsOnContainer/src/services/ProductCatalogApi/obj/Debug/netcoreapp2.1/ProductCatalogApi.AssemblyInfoInputs.cache
+/home/ajaysinghc/GitRepo/ProductsOnContainer/src/services/ProductCatalogApi/obj/Debug/netcoreapp2.1/ProductCatalogApi.AssemblyInfo.cs
+/home/ajaysinghc/GitRepo/ProductsOnContainer/src/services/ProductCatalogApi/obj/Debug/netcoreapp2.1/ProductCatalogApi.RazorTargetAssemblyInfo.cache
+/home/ajaysinghc/GitRepo/ProductsOnContainer/src/services/ProductCatalogApi/obj/Debug/netcoreapp2.1/ProductCatalogApi.dll
+/home/ajaysinghc/GitRepo/ProductsOnContainer/src/services/ProductCatalogApi/obj/Debug/netcoreapp2.1/ProductCatalogApi.pdb
